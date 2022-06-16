@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hej, I'm Bastian Kirschner! 👋
+
+I work as a full-stack 💻 developer, build 📱 mobile apps, do 🎨 UI design and co-founded a small 🏡 media agency.
+
+- ⚡ Fun fact: I found out you can use a fork as a spoon if you use it rapidly enough.
 
 <!--
 **ch3rr1/ch3rr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
