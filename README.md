@@ -1,5 +1,7 @@
 ### Hej, I'm Bastian Kirschner! 👋
 
+[ Résumé ](https://bastiankirschner.de/resume.pdf)
+
 I work as a full-stack 💻 developer at [pub.](https://pub.tech), build 📱 mobile apps, do 🎨 UI design and co-founded a small 🏡 [media agency](https://nachbarhaus.org).
 
 **I also helped to develope a few things:**
